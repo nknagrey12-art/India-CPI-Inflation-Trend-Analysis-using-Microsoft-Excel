@@ -20,10 +20,3 @@ This repository contains an analytical project using **Microsoft Excel** to eval
 
 -- 
 
-![Trend Identification](https://raw.githubusercontent.com/nknagrey12-art/India-CPI-Inflation-Trend-Analysis-using-Microsoft-Excel/main/excel%3D202.png)
-
-![Category Comparison](https://raw.githubusercontent.com/nknagrey12-art/India-CPI-Inflation-Trend-Analysis-using-Microsoft-Excel/main/excel%3D201.png)
-
-![Data Aggregation](https://raw.githubusercontent.com/nknagrey12-art/India-CPI-Inflation-Trend-Analysis-using-Microsoft-Excel/main/excel%3D203.png)
-
-![Data Visualization](https://raw.githubusercontent.com/nknagrey12-art/India-CPI-Inflation-Trend-Analysis-using-Microsoft-Excel/main/excel%3D204.png)
