@@ -19,3 +19,4 @@ This repository contains an analytical project using **Microsoft Excel** to eval
 5. **Insights Visualization**: Building dynamic charts to translate complex economic data into easily digestible visual narratives.
 
 ---
+https://github.com/nknagrey12-art/India-CPI-Inflation-Trend-Analysis-using-Microsoft-Excel/blob/main/excel%202.png?raw=true
