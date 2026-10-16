@@ -18,8 +18,12 @@ This repository contains an analytical project using **Microsoft Excel** to eval
 4. **Inflation Modeling**: Applying moving averages and lookup functions to smooth data and track temporal consistency.
 5. **Insights Visualization**: Building dynamic charts to translate complex economic data into easily digestible visual narratives.
 
----
-https://github.com/nknagrey12-art/India-CPI-Inflation-Trend-Analysis-using-Microsoft-Excel/blob/main/excel%202.png?raw=true
-https://github.com/nknagrey12-art/India-CPI-Inflation-Trend-Analysis-using-Microsoft-Excel/blob/main/excel%201.png?raw=true
-https://github.com/nknagrey12-art/India-CPI-Inflation-Trend-Analysis-using-Microsoft-Excel/blob/main/excel%203.png?raw=true
-https://github.com/nknagrey12-art/India-CPI-Inflation-Trend-Analysis-using-Microsoft-Excel/blob/main/excel%204.png?raw=true
+-- 
+
+![Trend Identification](https://raw.githubusercontent.com/nknagrey12-art/India-CPI-Inflation-Trend-Analysis-using-Microsoft-Excel/main/excel%3D202.png)
+
+![Category Comparison](https://raw.githubusercontent.com/nknagrey12-art/India-CPI-Inflation-Trend-Analysis-using-Microsoft-Excel/main/excel%3D201.png)
+
+![Data Aggregation](https://raw.githubusercontent.com/nknagrey12-art/India-CPI-Inflation-Trend-Analysis-using-Microsoft-Excel/main/excel%3D203.png)
+
+![Data Visualization](https://raw.githubusercontent.com/nknagrey12-art/India-CPI-Inflation-Trend-Analysis-using-Microsoft-Excel/main/excel%3D204.png)
